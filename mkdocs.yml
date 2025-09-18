@@ -1,0 +1,51 @@
+site_name: Foothills Programming Course
+
+
+nav:
+  - Home: index.md
+  - Learning Objectives: Learning.md
+
+  - Getting Started:
+    - Learning Objective: index.md
+
+  - Week 1 - Syntax:
+    - test: index.md
+  
+  - Week 2 - Variables:
+    - test: index.md
+
+  - Week 3 - Control Flow:
+    - test: index.md
+  
+  - Week 4 - Functions:
+    - test: index.md
+  
+  - Week 5 - Classes:
+    - test: index.md
+  
+  - Week 6 - Intro to FRC Ecosystem:
+    - test: index.md
+  
+  - Week 7 - Subsystems:
+    - test: index.md
+  
+  - Week 8 - Commands:
+    - test: index.md
+  
+  - Week 9 - Autonomous:
+    - test: index.md
+  
+  - Week 10 - Syntax:
+    - test: index.md
+  
+  - Assignments:
+    - test: index.md
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - attr_list
+
+theme: readthedocs
