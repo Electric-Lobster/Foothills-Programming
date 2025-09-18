@@ -26,19 +26,25 @@ nav:
   - Week 6 - Intro to FRC Ecosystem:
     - Intro to FRC Ecosystem: W6 Intro FRC/Home.md
   
-  - Week 7 - Subsystems:
-    - Subsystems: W7 Subsystems/Home.md
+  - week 7 - Sensors And Inputs:
+    - Sensors And Inputs: W7 Sensors And Inputs/Home.md
   
-  - Week 8 - Commands:
-    - Commands: W8 Commands/Home.md
+  - Week 8 - Actuators:
+    - Actuators: W8 Actuators/Home.md
   
-  - Week 9 - Autonomous:
-    - Autonomous: W9 Auto/Home.md
+  - Week 9 - Subsystems:
+    - Subsystems: W9 Subsystems/Home.md
   
-  - Week 10 - Vision:
-    - Vision: W10 Vision/Home.md
+  - Week 10 - Commands:
+    - Commands: W10 Commands/Home.md
   
-  - Assignments:
+  - Week 11 - Autonomous:
+    - Autonomous: W11 Auto/Home.md
+  
+  - Week 12 - Github:
+    - Github: W13 Github/Home.md
+  
+  - Weel 13 + 14 - Assignments:
     - Assignments: Assignments/Home.md
 
 
@@ -47,5 +53,7 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.superfences
   - attr_list
+  - pymdownx.details
+  - abbr
 
 theme: readthedocs
