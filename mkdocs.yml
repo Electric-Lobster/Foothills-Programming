@@ -6,40 +6,40 @@ nav:
   - Learning Objectives: Learning.md
 
   - Getting Started:
-    - Learning Objective: index.md
+    - Programs: Getting Started/Programs.md
 
   - Week 1 - Syntax:
-    - test: index.md
+    - Syntax: W1 Syntax/Home.md
   
   - Week 2 - Variables:
-    - test: index.md
+    - Variables: W2 Variables/Home.md
 
   - Week 3 - Control Flow:
-    - test: index.md
+    - Control Flow: W3 Control Flow/Home.md
   
   - Week 4 - Functions:
-    - test: index.md
+    - Function: W4 Functions/Home.md
   
   - Week 5 - Classes:
-    - test: index.md
+    - Classes: W5 Classes/Home.md
   
   - Week 6 - Intro to FRC Ecosystem:
-    - test: index.md
+    - Intro to FRC Ecosystem: W6 Intro FRC/Home.md
   
   - Week 7 - Subsystems:
-    - test: index.md
+    - Subsystems: W7 Subsystems/Home.md
   
   - Week 8 - Commands:
-    - test: index.md
+    - Commands: W8 Commands/Home.md
   
   - Week 9 - Autonomous:
-    - test: index.md
+    - Autonomous: W9 Auto/Home.md
   
-  - Week 10 - Syntax:
-    - test: index.md
+  - Week 10 - Vision:
+    - Vision: W10 Vision/Home.md
   
   - Assignments:
-    - test: index.md
+    - Assignments: Assignments/Home.md
 
 
 markdown_extensions:
